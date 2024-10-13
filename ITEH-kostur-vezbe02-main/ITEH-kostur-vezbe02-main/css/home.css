@@ -9,7 +9,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center center; 
-    color: #339;
+    color: #334;
     margin: 0;
     padding: 0;
     height: 100vh; 
@@ -176,4 +176,4 @@ button:hover {
     text-align: center;
     padding-top: 10px;
     border-top: none;
-}
+}}}
